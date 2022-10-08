@@ -7,8 +7,8 @@ public class Main {
 
         Jogo jogador = new Jogo();
         System.out.println("Jogando a moeda...");
-jogador.jogarMoeda();
-jogador.jogaNovamente();
+        jogador.jogarMoeda();
+        jogador.jogaNovamente();
     }
 }
 
